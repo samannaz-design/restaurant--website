@@ -47,16 +47,7 @@ Important: Make the website visually appealing, easy to navigate, and suitable f
 * Modern and responsive landing page layout.
 * Interactive UI components (Navigation bar, Hero section, Gallery/Menu).
 * Professional color scheme and typography.
-* Contact section / Inquiry form.
-
----
-
-## 📸 Screenshots
-*(Yahan apni website ke screenshots drag & drop kar ke upload karein, ya markdown image tag use karein)*
-- **Home Page Screenshot:** 
-  `![Home Page](path/to/screenshot1.png)`
-- **Menu Page Screenshot:** 
-  `![Menu Page](path/to/screenshot2.png)`
+* Contact section / Inquiry for food 
 
 ---
 
